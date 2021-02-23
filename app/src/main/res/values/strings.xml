@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Inventory App</string>
+    <string name="et_empty">This Field Cannot be Empty!</string>
+</resources>
